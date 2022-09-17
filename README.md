@@ -10,6 +10,11 @@ I hope I work for Apple someday.
 
 ### 🛠 Tech Stacks
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 
 ---
 ### 👨🏻‍💻 Work Experience
