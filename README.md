@@ -20,6 +20,8 @@ I hope I work for Apple someday.
 |2016.01 ~ 2020.12|DaelimCorporation, Technology Development Team|
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-Young&show_icons=true&theme=radical)
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-Young&count_bg=%23B0C99E&title_bg=%23967E7E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
