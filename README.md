@@ -9,12 +9,13 @@ I hope I work for Apple someday.
 ### <a href="https://moon-young.notion.site/iOS-9961134638164c9faac2782496371556" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat"/></a> <a href="https://www.linkedin.com/in/moonyoung-kim-75761824b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white?style=flat" /></a>
 
 ### 🛠 Tech Stacks
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/> 
+<br> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 
 ---
 ### 👨🏻‍💻 Work Experience
