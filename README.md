@@ -5,5 +5,5 @@ I've been studying hard. 👋 <br>
 I hope I work for Apple someday.
 
 
-![](./profile-3d-contrib/profile-night-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
