@@ -1,8 +1,8 @@
 ⏾ |  <br>
 Hi, I'm Moon-Young. <br>
 I'm a developer who just loves 'Apple' so much. ❤︎ <br>
-I've been studying hard. 👋 <br>
-I hope I work for Apple someday.
+I've been studying hard. 👋  <br>
+I hope I work for Apple someday. <br>
 Good Luck and Happy Coding.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=300&section=header&text=MOON🌙YOUNG%20&fontSize=80)
