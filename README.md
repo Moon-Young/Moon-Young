@@ -7,8 +7,12 @@ Good Luck and Happy Coding.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=300&section=header&text=MOON🌙YOUNG%20&fontSize=80)
 
-### <a href="https://www.linkedin.com/in/moonyoung-kim-75761824b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white?style=flat" /></a> <a href="https://moon-young.notion.site/iOS-99abb409ab3848bcb6c10b56e6c8d3c1" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/- iOS Study-black?logo=notion&logoColor=white?style=flat"/></a> 
+### <a href="https://www.linkedin.com/in/moonyoung-kim-75761824b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white?style=flat" /></a> <a href="https://moon-young.notion.site/iOS-99abb409ab3848bcb6c10b56e6c8d3c1" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/- iOS Study-black?logo=notion&logoColor=white?style=flat"/></a> <a href="https://moon0shot.tistory.com/" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/- Tistory-black?logo=Tistory&logoColor=white?style=flat"/></a> 
+
 <br><b>⛔️</b> <a href="https://moon-young.notion.site/iOS-9961134638164c9faac2782496371556" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Resume-black?logo=notion&logoColor=white?style=flat"/></a>
+
+
 
 ### 🛠 Tech Stacks
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147efb?style=flat-square&logo=Xcode&logoColor=white"/> 
