@@ -28,7 +28,7 @@ Good Luck and Happy Coding.
 |Duration|Company, Team|
 |:---:|:---:|
 |2021.01 ~ |Home&Shopping, IT-Biz Team|
-|2016.01 ~ 2020.12|DaelimCorporation, Technology Development Team|
+|2017.01 ~ 2020.12|DaelimCorporation, Technology Development Team|
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-Young&show_icons=true&theme=radical)
